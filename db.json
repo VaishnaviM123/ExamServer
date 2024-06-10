@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "title": "IndhuLekha",
+      "author": "ChandhuMenon",
+      "coverImg": "https://i.postimg.cc/8PsSVZj1/b1.jpg",
+      "id": 1
+    },
+    {
+      "title": "Avalude Kadha",
+      "author": "Pathmarajan",
+      "coverImg": "https://i.postimg.cc/d1q0RGnL/b2.jpg",
+      "id": 2
+    },
+    {
+      "title": "Aarachar",
+      "author": "Meera",
+      "coverImg": "https://i.postimg.cc/tJmq3fmg/b10.jpg",
+      "id": 3
+    },
+    {
+      "title": "MittayiTheruvu",
+      "author": "Sudheesh",
+      "coverImg": "https://i.postimg.cc/kgSJSTNn/b6.jpg",
+      "id": 4
+    },
+    {
+      "title": "Frienship",
+      "author": "Kappari Kishan",
+      "coverImg": "https://i.postimg.cc/DZZ4b0T0/Screenshot-2024-05-29-171142.png",
+      "id": 5
+    },
+    {
+      "title": "Nagees",
+      "author": "Raghavan",
+      "coverImg": "https://i.postimg.cc/zBx8N6Nk/b12.jpg",
+      "id": 6
+    },
+    {
+      "title": "The Archer",
+      "author": "Paulo Coelho",
+      "coverImg": "https://i.postimg.cc/0yh6R6nN/b5.jpg",
+      "id": 7
+    }
+  ]
+}
